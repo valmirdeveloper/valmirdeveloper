@@ -1,6 +1,6 @@
 <h1>Olá meu nome é Valmir!<h1>
 
-- 🌱 I’m currently learning ...HTML/CSS
+- 🌱 Atualmente estou aprendendo ...HTML/CSS
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
